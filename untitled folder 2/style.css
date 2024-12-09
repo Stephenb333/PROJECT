@@ -69,12 +69,10 @@ li a{
 
 
 li a:hover:not(.active) {
-
     background-color: #C5C6C7;
 }
 
 .active{
-
     background-color:green;
 }
 
@@ -112,17 +110,14 @@ section{
 footer{
 
     clear:both;
-    width:1000px;
-    height:100px;
-    text-align:center;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
     background: #C5C6C7;
 }
 
-#footer-image {
-
-    height:50px;
-
-    width:50px;
-   
-    margin:20px;
+footer img{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
 }
